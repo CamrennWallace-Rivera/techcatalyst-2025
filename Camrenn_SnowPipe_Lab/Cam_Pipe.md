@@ -45,3 +45,13 @@
 
 
 ![image-Snowpipe.jpg](images/Snowpipe.jpg)
+
+
+
+**Use Cases**
+
+- Great to streamline data engineering work flows where raw data is being staged before it transformations
+- Real time data ingestion
+- Batch file processing through automation
+  
+
