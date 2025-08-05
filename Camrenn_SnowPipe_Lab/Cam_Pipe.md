@@ -40,4 +40,8 @@
 - If you need to process data in memory before saving it locally, which download method would be most suitable?
   - If you need to process data in memory before saving it locally, download_fileobj is the most suitable method. It allows you to download an S3 object directly into a file-like object
 
+**Flow Diagram**
 
+
+
+![image-Snowpipe.jpg](images/Snowpipe.jpg)
